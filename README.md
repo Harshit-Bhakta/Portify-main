@@ -11,7 +11,6 @@ This is a flutter application that describes me and also acts as my standing por
 ## INSTALLATION
 
 ```bash
-git clone https://AmanKRoy/Portfolio_App.git
 cd Portfolio_App
 flutter pub get
 ```
