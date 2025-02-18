@@ -26,8 +26,6 @@ flutter pub get
 
 
 | Home Page | Scroll Bar |
-| --- | --- |
-|  <img src="./assets/home.png" alt="Screenshot 1" height=450>  | <img src="./assets/scroll.png" alt="Screenshot 2" height=450> | 
 ## credits
 
 - [FLUTTER](https://flutter.dev/)
